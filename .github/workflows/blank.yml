@@ -34,7 +34,6 @@ jobs:
       with:
           name: artifacts
           path: target/*.jar
-
 #   deploy:
 #     needs: build
 #     runs-on: ubuntu-latest
